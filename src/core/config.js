@@ -1,5 +1,5 @@
 const config = {
-	countStart: 0,
+	scoreStart: 0,
 	increment: 1,
 };
 
