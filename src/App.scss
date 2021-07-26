@@ -1,7 +1,24 @@
 .App {
+	position: absolute;
 	text-align: center;
-
+	background-color: peachpuff;
+	min-height: 100%;
+	width: 100%;
 	button {
 		font-weight: bold;
 	}
+}
+
+.score {
+	position: absolute;
+	top: 5%;
+	left: 2%;
+}
+
+.question {
+	margin-top: 10%;
+}
+
+.answer {
+	margin-top: 2%;
 }
